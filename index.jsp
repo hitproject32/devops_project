@@ -8,6 +8,6 @@
 <title>Devops project By Ilan and Ido</title>
 </head>
 <body>
-Today's date: <%= (new java.util.Date()).toLocaleString()%>
+    <h1> Today's date: <%= (new java.util.Date()).toLocaleString()%> </h1>
 </body>
 </html>
